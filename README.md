@@ -1,57 +1,51 @@
-# Пономаренко Андрей Эдуардович
+# Ponomarenko Andrey Eduardovich
+## Profile
 
-## Профиль
+Has four years of experience in technical support for infrastructure and software functionality, as well as process automation using API integration with Python/Bash (depending on the task). Work experience has provided extensive expertise in interacting with both internal teams and clients, as well as in technical aspects. Has a habit of working under self-imposed high pressure.
 
-Имеет четрёхлетный опыт технической поддержки работоспособности
-инфраструктуры и ПО, автоматизации процессов при помощи связки API с
-Python/Bash (в зависимости от задачи). Опыт работы дал большую экспертизу
-во взаимодействии как со внутренними командами, так и клиентами, также в технической части. Имеет
-привычку работать в режиме самостоятельно повышенной нагрузки.
+## Education
+### DonNU 2017-2021
+#### Computer Science and Computing Engineering (CSE)
 
-## Образование
-### ДонНУ 2017-2021
-#### Информатика и Вычислительная техника (ИВТ)
+## Languages
 
-## Языки
-* Русский (native)
+* Russian (native)
 * English (B2)
 
-## Экспертиза
+## Expertise
+
 * Linux
 * Bash
 * Python
-* Автоматизация
-* Дебаггинг
+* Automation
+* Debugging
 * RESTful API
 * MySQL
-* Чтение логов
+* Log Analysis
 
-## Опыт работы
+## Work Experience
 ### Slotegrator
 #### Technical Support Specialist 2023-2025
-* Обеспечение поддержки программного обеспечения
-* Администрирование серверов
-* Сотрудничество с отделом разработки
-* Автоматизация на базе API с использованием Bash и Python
-* Анализ NoSQL-логов (ELK)
-* Мониторинг ПО
 
-### ТетраСофт-Сервис
-#### Инженер технической поддержки 2021-2023
-* Техническая помощь техникам в поле
-* Выявление и разрешение сетевых, программных и
-системных инцидентов
-* Ручное развертывание программного обеспечения на
-удаленных промышленных ПК на базе Linux
-* Конфигурирование сети (VPN и NW-устройства) и ПО
-(потоковая передача данных (WITS/WITSML) и видео,
-передача файлов)
-* Работа с БД MySQL (выборки, перечитывание и исправление
-данных)
-* Анализ логов (raw).
+* Providing software support
+* Server administration
+* Collaboration with the development department
+* Automation based on API using Bash and Python
+* Analyzing NoSQL logs (ELK)
+* Software monitoring
 
+### TetraSoft-Service
+#### Technical Support Engineer 2021-2023
+
+* Technical assistance to field technicians
+* Identifying and resolving network, software, and system incidents
+* Manual deployment of software on remote industrial PCs based on Linux
+* Configuring networks (VPN and NW devices) and software (data streaming (WITS/WITSML) and video, file transfer)
+* Working with MySQL databases (queries, reading, and correcting data)
+* Log analysis (raw).
 
 ### FullStack-Employee
-#### Лидогенератор (part-time) 2020
-* Поиск и прогрев лидов
-* Коммуникация с менеджером по продажам
+#### Lead Generator (part-time) 2020
+
+* Searching and warming up leads
+* Communicating with the sales manager
