@@ -1,41 +1,57 @@
-# anarhehest is ✨ _special_ ✨
+# Пономаренко Андрей Эдуардович
 
-as well as **anarhehest/anarhehest** is a ✨ _special_ ✨ repository because its `README.md` ([this](https://github.com/anarhehest/anarhehest/blob/master/README.md) file) appear on his GitHub profile ([this](https://github.com/anarhehest) profile). 
+## Профиль
 
-----
+Имеет четрёхлетный опыт технической поддержки работоспособности
+инфраструктуры и ПО, автоматизации процессов при помощи связки API с
+Python/Bash (в зависимости от задачи). Опыт работы дал большую экспертизу
+во взаимодействии как со внутренними командами, так и клиентами, также в технической части. Имеет
+привычку работать в режиме самостоятельно повышенной нагрузки.
 
-Check out my [math](https://github.com/anarhehest/pizdec), æto prosto pizdec.
+## Образование
+### ДонНУ 2017-2021
+#### Информатика и Вычислительная техника (ИВТ)
 
-<!--
-**anarhehest/anarhehest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Языки
+* Русский (native)
+* English (B2)
 
-Here are some ideas to get you started:
+## Экспертиза
+* Linux
+* Bash
+* Python
+* Автоматизация
+* Дебаггинг
+* RESTful API
+* MySQL
+* Чтение логов
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Опыт работы
+### Slotegrator
+#### Technical Support Specialist 2023-2025
+* Обеспечение поддержки программного обеспечения
+* Администрирование серверов
+* Сотрудничество с отделом разработки
+* Автоматизация на базе API с использованием Bash и Python
+* Анализ NoSQL-логов (ELK)
+* Мониторинг ПО
 
-```
-            ______________
-      ,===:'.,            `-._
-           `:.`---.__         `-._
-             `:.     `--.         `.
-               \.        `.         `.
-       (,,(,    \.         `.   ____,-`.,
-    (,'     `/   \.   ,--.___`.'
-,  ,'  ,--.  `,   \.;'         `
- `{D, {    \  :    \;
-   V,,'    /  /    //
-   j;;    /  ,' ,-//.    ,---.      ,
-   \;'   /  ,' /  _  \  /  _  \   ,'/
-         \   `'  / \  `'  / \  `.' /
-          `.___,'   `.__,'   `.__,'  
+### ТетраСофт-Сервис
+#### Инженер технической поддержки 2021-2023
+* Техническая помощь техникам в поле
+* Выявление и разрешение сетевых, программных и
+системных инцидентов
+* Ручное развертывание программного обеспечения на
+удаленных промышленных ПК на базе Linux
+* Конфигурирование сети (VPN и NW-устройства) и ПО
+(потоковая передача данных (WITS/WITSML) и видео,
+передача файлов)
+* Работа с БД MySQL (выборки, перечитывание и исправление
+данных)
+* Анализ логов (raw).
 
-                                    ChatGPT
-```
--->
+
+### FullStack-Employee
+#### Лидогенератор (part-time) 2020
+* Поиск и прогрев лидов
+* Коммуникация с менеджером по продажам
