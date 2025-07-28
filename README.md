@@ -25,6 +25,8 @@ Python/Bash (в зависимости от задачи). Опыт работы
 * RESTful API
 * MySQL
 * Чтение логов
+* Jenkins
+* Docker
 
 ## Опыт работы
 ### Slotegrator
