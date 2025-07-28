@@ -22,6 +22,8 @@ Has four years of experience in technical support for infrastructure and softwar
 * RESTful API
 * MySQL
 * Log Analysis
+* Jenkins
+* Docker
 
 ## Work Experience
 ### Slotegrator
