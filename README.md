@@ -18,10 +18,11 @@ Has four years of experience in technical support for infrastructure and softwar
 * Bash
 * Python
 * Automation
-* Debugging
 * RESTful API
 * MySQL
-* Log Analysis
+* Raw Log Analysis
+* ElasticSearch
+* Graylog
 * Jenkins
 * Docker
 
