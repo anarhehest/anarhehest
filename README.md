@@ -5,12 +5,25 @@ Has four years of experience in technical support for infrastructure and softwar
 
 ## Education
 ### DonNU 2017-2021
-#### Computer Science and Computing Engineering (CSE)
+**Computer Science and Computing Engineering (CSE)**
+
+### Cisco NetAcad
+
+**Cisco CCNA RS1/2**
+
+**Cisco Cybersecurity Essentials**
+
+**Cisco PCAP**
+
 
 ## Languages
 
 * Russian (native)
 * English (B2)
+
+## Achievements
+
+Invented my own markup language [CML](https://github.com/anarhehest/CML), designed to help in decision making.
 
 ## Expertise
 
