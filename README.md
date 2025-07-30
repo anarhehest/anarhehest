@@ -15,7 +15,9 @@ Python/Bash (в зависимости от задачи). Опыт работы
 ### Cisco NetAcad
 
 **Cisco CCNA RS1/2**
+
 **Cisco Cybersecurity Essentials**
+
 **Cisco PCAP**
 
 ## Языки
