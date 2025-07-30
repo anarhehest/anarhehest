@@ -21,10 +21,11 @@ Python/Bash (в зависимости от задачи). Опыт работы
 * Bash
 * Python
 * Автоматизация
-* Дебаггинг
 * RESTful API
 * MySQL
-* Чтение логов
+* Чтение raw-логов
+* ElasticSearch
+* Graylog
 * Jenkins
 * Docker
 
