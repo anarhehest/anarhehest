@@ -36,8 +36,9 @@ Invented my own markup language [CML](https://github.com/anarhehest/CML), design
 * Raw Log Analysis
 * ElasticSearch
 * Graylog
-* Jenkins
 * Docker
+* Ansible
+* Jenkins
 
 ## Work Experience
 ### Slotegrator
