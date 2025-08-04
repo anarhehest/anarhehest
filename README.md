@@ -34,8 +34,9 @@ Python/Bash (в зависимости от задачи). Опыт работы
 * Чтение raw-логов
 * ElasticSearch
 * Graylog
-* Jenkins
 * Docker
+* Ansible
+* Jenkins
 
 ## Личные достижения
 Придумал собственный язык разметки [CML](https://github.com/anarhehest/CML), призыванный помогать в принятии решений.
